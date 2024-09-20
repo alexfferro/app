@@ -1,4 +1,4 @@
-<h1 align="center"> NLW Pocket JavaScript </h1>
+<h1 align="center"> NLW Pocket JavaScript - App de Metas</h1>
 
 <p align="center">
   Este repositório documenta os conceitos fundamentais de programação e resolução de problemas. <br/>
@@ -34,6 +34,15 @@ Este projeto está sob a licença MIT.
 ---
 
 Feito com ♥ por Alex Ferreira da Silva 👋 [Conecte-se comigo!](https://www.linkedin.com/in/alexfferro/)
+
+---
+para testar o aplicativo no seu computador, basta copiar e colar esses codigos no seu terminal
+```
+git clone https://github.com/alexfferro/nlw-pocketjs-app.git
+cd nlw-pocketjs-app
+npm install
+node index.js
+```
 
 
 ---
